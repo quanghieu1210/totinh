@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 3.000.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'OK ạ 💖',
-    messLink: 'https://www.facebook.com/Kuro.MMO'
+    messLink: 'https://www.facebook.com/khongnho.ten.58760'
 }
